@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Riddhi U. Halade</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently learning more about **GANs**
 
-- 💬 Ask me about **Machine Learning,Deep Learning Computer Vision, NLP, React, UI/UX**
+- 💬 Ask me about **Machine Learning, FAST APIs, LLMs, React Js, Flask, NLP**
 
 - 📫 How to reach me **riddhihalade1@gmail.com**
 
