@@ -1,15 +1,15 @@
-<h3 align="left">Hi there, I'm Riddhi Halade 👋<br>I’m a final-year student at Vishwakarma Institute of Technology, Pune,with keen intrest in Machine Learning.<br><br>🚀 Skills & Technologies<br>Machine Learning & Deep Learning: PyTorch, TensorFlow<br>Web Development: React JS, Tailwind CSS, Flask, FastAPI, REST API, Node JS<br>Natural Language Processing (NLP): Hugging Face Transformers, NLTK, SpaCy<br>Large Language Models (LLMs): LangChain<br>Databases: MySQL<br>Other: Docker, Streamlit, PyCaret, Plotly, Pandas Profiling<br><br><br>📂 Repositories<br>I have a lot of repositories showcasing a range of projects. You can explore them on my GitHub profile.<br><br>🌟 Projects<br>ImageSense: An Image Captioning API using Hugging Face Transformers and FastAPI.<br>Model Forage: An Automated Machine Learning Pipeline using Streamlit and PyCaret.<br><br><br>📫 Get in Touch<br>Email: riddhihalade1@gmail.com<br>LinkedIn: Riddhi Halade<br>GitHub: riddhihalade</h3>
+<h5 align="left">Hi there, I'm Riddhi Halade 👋<br>I’m a final-year student at Vishwakarma Institute of Technology, Pune,with keen intrest in Machine Learning.<br><br>🚀 Skills & Technologies<br>Machine Learning & Deep Learning: PyTorch, TensorFlow<br>Web Development: React JS, Tailwind CSS, Flask, FastAPI, REST API, Node JS<br>Natural Language Processing (NLP): Hugging Face Transformers, NLTK, SpaCy<br>Large Language Models (LLMs): LangChain<br>Databases: MySQL<br>Other: Docker, Streamlit, PyCaret, Plotly, Pandas Profiling<br><br><br>📂 Repositories<br>I have a lot of repositories showcasing a range of projects. You can explore them on my GitHub profile.<br><br>🌟 Projects<br>ImageSense: An Image Captioning API using Hugging Face Transformers and FastAPI.<br>Model Forage: An Automated Machine Learning Pipeline using Streamlit and PyCaret.<br><br><br>📫 Get in Touch<br>Email: riddhihalade1@gmail.com<br>LinkedIn: Riddhi Halade<br>GitHub: riddhihalade</h5>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=riddhihalade&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhihalade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=riddhihalade&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="158" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhihalade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true" height="165" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
