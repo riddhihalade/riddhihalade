@@ -1,5 +1,11 @@
-<h4 align="left">Hi there, I'm Riddhi Halade 👋<br>I’m a final-year student at Vishwakarma Institute of Technology, Pune, <br><br>🚀 Skills & Technologies<br>Machine Learning & Deep Learning: PyTorch, TensorFlow<br>Natural Language Processing (NLP): Hugging Face Transformers, NLTK, SpaCy<br>Large Language Models (LLMs): LangChain<br>Web Development: React JS, Flask, FastAPI<br>Databases: MySQL<br>Other: Docker, Streamlit, PyCaret, Plotly, Pandas Profiling<br><br>📂 Repositories
-I have a total of 17 repositories showcasing a range of projects. You can explore them on my GitHub profile.<br><br>🌟 Projects<br>ImageSense: An Image Captioning API using Hugging Face Transformers and FastAPI.<br>Model Forage: An Automated Machine Learning Pipeline using Streamlit and PyCaret.<br>DubWiz: An AI-ML powered Video Dubbing Website using React JS and Flask.📫 Get in Touch<br>Email: riddhihalade1@gmail.com.com<br>LinkedIn: Riddhi Halade<br>GitHub: riddhihalade</h4>
+<h3 align="left">Hi there, I'm Riddhi Halade 👋<br>I’m a final-year student at Vishwakarma Institute of Technology, Pune,with keen intrest in Machine Learning.<br><br>🚀 Skills & Technologies<br>Machine Learning & Deep Learning: PyTorch, TensorFlow<br>Web Development: React JS, Tailwind CSS, Flask, FastAPI, REST API, Node JS<br>Natural Language Processing (NLP): Hugging Face Transformers, NLTK, SpaCy<br>Large Language Models (LLMs): LangChain<br>Databases: MySQL<br>Other: Docker, Streamlit, PyCaret, Plotly, Pandas Profiling<br><br><br>📂 Repositories<br>I have a lot of repositories showcasing a range of projects. You can explore them on my GitHub profile.<br><br>🌟 Projects<br>ImageSense: An Image Captioning API using Hugging Face Transformers and FastAPI.<br>Model Forage: An Automated Machine Learning Pipeline using Streamlit and PyCaret.<br><br><br>📫 Get in Touch<br>Email: riddhihalade1@gmail.com<br>LinkedIn: Riddhi Halade<br>GitHub: riddhihalade</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=riddhihalade&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhihalade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -60,8 +66,12 @@ I have a total of 17 repositories showcasing a range of projects. You can explor
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="riddhihalade1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/riddhi-halade-c3317b66331" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
